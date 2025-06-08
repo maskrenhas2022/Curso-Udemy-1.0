@@ -1,0 +1,6 @@
+ipykernel
+apenai
+python-dotenv
+yfinance
+pandas
+matplotlib
